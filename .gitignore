@@ -1,0 +1,19 @@
+# Archivos compilados de Java
+bin/
+*.class
+
+# Configuraciones de Entornos de Desarrollo (IDE)
+.vscode/
+.idea/
+*.iml
+*.project
+*.classpath
+*.settings/
+
+# Archivos del Sistema Operativo
+Thumbs.db
+.DS_Store
+
+# Archivos y guías de uso local exclusivamente
+GUIA_VIDEO_SUSTENTACION.md
+*.local*
