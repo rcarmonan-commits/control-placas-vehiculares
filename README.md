@@ -4,7 +4,7 @@
 **Correo Institucional:** [rcarmonan@unicartagena.edu.co](mailto:rcarmonan@unicartagena.edu.co)  
 **Usuario de GitHub:** [rcarmonan-commits](https://github.com/rcarmonan-commits)  
 **Institución:** Universidad de Cartagena  
-**Programa:** Ingeniería de Sistemas  
+**Programa:** Ingeniería de Software  
 **Asignatura:** Estructuras de Datos / Algoritmos  
 
 ---
